@@ -10,6 +10,11 @@ namespace Snake
     {
         static void Main(string[] args)
         {
+            Console.CursorVisible = false;
+            Game game = new Game();
+            game.Play();
+            Console.ReadKey();
+
         }
     }
 }
