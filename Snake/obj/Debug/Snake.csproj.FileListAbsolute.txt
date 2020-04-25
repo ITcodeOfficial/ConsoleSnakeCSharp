@@ -5,3 +5,10 @@ C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
 C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\Damia\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Damia\Desktop\Programowanie\C#\The Best Projects\Snake\Snake\obj\Debug\Snake.pdb
